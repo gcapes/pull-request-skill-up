@@ -9,6 +9,13 @@ By the end of the session you will:
 - how to edit/update your PR
 
 # Outline
+## How the carpentries lessons are organised
+- Lessons all use the same [structure](http://carpentries.github.io/lesson-example/03-organization/index.html)
+- Content written as markdown files in `_episodes` directory
+- Markdown files formatted with [special blockquotes](http://carpentries.github.io/lesson-example/04-formatting/index.html)
+- Syntax highlighting available
+- Local preview of site available using Jekyll
+
 ## How to make a PR:
 - fork repo
 - create new branch
